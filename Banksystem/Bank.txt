@@ -1,0 +1,6 @@
+Craig Huhuyana: Deposited: 500.0, New Balance: 1500.0
+Craig Huhuyana: Withdrawn: 200.0, New Balance: 1300.0
+Deposited 200.0 | Balance: 700.0
+Withdrawn 100.0 | Balance: 600.0
+Deposited 200.0 | Balance: 700.0
+Withdrawn 100.0 | Balance: 600.0
